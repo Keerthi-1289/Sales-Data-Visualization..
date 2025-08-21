@@ -14,7 +14,3 @@ It provides key insights into course performance and overall business growth.
 ## 🛠 Tools Used  
 - Power BI (for visualization)  
 - Excel (as data source)  
-
-## 📂 Files in this Repository  
-- `dashboard.pbix` → Power BI project file *(if size < 25MB)*  
-- `dashboard.pdf` → Exported dashboard report (easy to view)   
